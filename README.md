@@ -3,7 +3,7 @@
 # Problem Statement
 Predit the future sale price of a bulldozer by its charactersticsand previous examples(how much similar bulldozer have been sold.)
 
-* Main Code: https://github.com/piyush033/Time-Series-Data-Project/blob/main/Bulldozer-Price-Regression.ipynb 
+* [Main Code](https://github.com/piyush033/Time-Series-Data-Project/blob/main/Bulldozer-Price-Regression.ipynb) 
 
 # Table of Content
 * [Problem Statement](https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#problem-statement)
@@ -15,15 +15,15 @@ Predit the future sale price of a bulldozer by its charactersticsand previous ex
 # Dataset Used 
 The original data come from [Kaggle Blue Box for Bulldozers](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data) prediction competition.
 
-You can find this also in my repository: https://github.com/piyush033/Time-Series-Data-Project/tree/main/Data 
+You can find this also in my repository: [My Repository](https://github.com/piyush033/Time-Series-Data-Project/tree/main/Data) 
 
 # Frameworks Used
 
-* Numpy
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Seaborn
+* [Numpy](https://numpy.org/doc/)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Matplotlib](https://matplotlib.org/stable/index.html)
+* [Seaborn](https://seaborn.pydata.org/)
 
 # Bulldozer Data Dictionary
 
