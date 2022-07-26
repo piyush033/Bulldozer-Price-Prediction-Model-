@@ -8,6 +8,9 @@ Predit the future sale price of a bulldozer by its charactersticsand previous ex
 # Table of Content
 * [Problem Statement](https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#problem-statement)
 * [Dataset Used](https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#dataset-used)  
+* [Frameworks Used](https://github.com/piyush033/Time-Series-Data-Project#frameworks-used)
+* [Bulldozer Data Dictionary](https://github.com/piyush033/Time-Series-Data-Project#bulldozer-data-dictionary)
+* [Model Visualizations](https://github.com/piyush033/Time-Series-Data-Project#model-visualizations)
 
 # Dataset Used 
 The original data come from [Kaggle Blue Box for Bulldozers](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data) prediction competition.
