@@ -47,3 +47,9 @@ The machine_appendix.csv file contains the correct year manufactured for a given
 # Model Visualizations
 
 Data:
+
+![Screenshot 2022-07-26 121038](https://user-images.githubusercontent.com/100412728/180940789-dfc642ba-9b1d-48c3-a5ce-89dce913f067.png)
+
+![Screenshot 2022-07-26 121120](https://user-images.githubusercontent.com/100412728/180940829-2dba87b3-3823-4821-b68e-16717fb5134f.png)
+
+![Screenshot 2022-07-26 121147](https://user-images.githubusercontent.com/100412728/180940838-e70f515f-0d86-4a80-ac49-81143ee0b050.png)
